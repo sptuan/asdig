@@ -1,4 +1,3 @@
-# {"date": "2021.07.26 16:43:44", "cwd": "/home/eyulaeva/facilities-mapping/facilities", "script": "scripts/ixs-build.py", "config_file": "/home/eyulaeva/facilities-mapping/facilities/config.ini", "hostname": "athyra"}
 {"name": "Equinix, Inc.", "pdb_org_id": 2, "address": "1 Lagoon Dr", "city": "Redwood City", "country": "US", "state": "CA", "url": "http://www.equinix.com", "zipcode": "94065-1562", "org_id": 2}
 {"name": "Telehouse - Global Data Centers", "pdb_org_id": 7, "address": "3-10-10 Iidabashi\nGarden Air Tower", "city": "Chiyoda-ku", "country": "JP", "state": "Tokyo", "url": "http://www.telehouse.com", "zipcode": "102-8460", "org_id": 7}
 {"name": "Akamai Technologies", "pdb_org_id": 14, "address": "145 Broadway", "city": "Cambridge", "country": "US", "state": "MA", "url": "https://www.akamai.com/", "zipcode": "02142", "org_id": 14}
